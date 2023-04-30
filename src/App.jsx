@@ -71,7 +71,7 @@ class Heatmap extends Component {
 	render() {
 		return (
 			<>
-				<div id="map" style={{ height: "500px" }}></div>
+				<div id="map" style={{ height: "1000px" }}></div>
 			</>
 		);
 	}
